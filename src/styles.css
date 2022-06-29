@@ -1,0 +1,93 @@
+button {
+    border-radius: 16px;
+    border: none;
+    padding: 4px 16px;
+  }
+  
+  button:hover {
+    background-color: #ff7fff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .input-area {
+    background-color: #c1ffff;
+    width: 400px;
+    height: 30px;
+    padding: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .input-area input {
+    border-radius: 16px;
+    border: none;
+    padding: 6px 16px;
+    outline: none;
+  }
+  
+  .imcompete-area {
+    background-color: #c6ffe2;
+    width: 400px;
+    min-height: 300px;
+    padding: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .imcompete-area button {
+    margin-right: 10px;
+  }
+  
+  .imcompete-area .title {
+    text-align: center;
+    margin-top: 0px;
+    font-weight: 700;
+    color: #666;
+  }
+  
+  .imcompete-area .list-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding-bottom: 20px;
+  }
+  
+  .imcompete-area .list-row li {
+    margin-right: 10px;
+  }
+  
+  .complete-area {
+    background-color: #ffffe0;
+    width: 400px;
+    min-height: 300px;
+    padding: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .complete-area button {
+    margin-right: 10px;
+  }
+  
+  .complete-area .title {
+    text-align: center;
+    margin-top: 0px;
+    font-weight: 700;
+    color: #666;
+  }
+  
+  .complete-area .list-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding-bottom: 20px;
+  }
+  
+  .complete-area .list-row li {
+    margin-right: 10px;
+  }
+  /*# sourceMappingURL=styles.css.map */
